@@ -3,7 +3,7 @@ from src.utils.javascript import call_js_files
 from src.utils.python import call_py_files
 
 if len(argv) != 3:
-    print("Uso: python3 run.py <parametro1> <parametro2>")
+    print("How to use: python3 run.py <language> <test_number>")
 else:
     language = argv[1]
 
