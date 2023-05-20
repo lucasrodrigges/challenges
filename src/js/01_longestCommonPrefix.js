@@ -1,3 +1,6 @@
+// leetcode
+// 14. Longest Common Prefix
+
 const longestCommonPrefix = (arr) => {
   let [str] = arr;
 

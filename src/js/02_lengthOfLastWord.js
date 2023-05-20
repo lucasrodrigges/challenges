@@ -1,4 +1,7 @@
+// leetcode
 // 58. Length of Last Word
+
+// first solution
 
 // const lengthOfLastWord = (s) => {
 //   const strArr = s.split(' ');
@@ -13,6 +16,8 @@
 
 //   return 0;
 // };
+
+// second solution
 
 const lengthOfLastWord = (s) => {
   let result = '';
