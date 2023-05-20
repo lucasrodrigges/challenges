@@ -40,4 +40,5 @@ const lengthOfLastWord = (s) => {
 
 console.log(
   lengthOfLastWord('Hello World'),
+  lengthOfLastWord('a'),
 );
